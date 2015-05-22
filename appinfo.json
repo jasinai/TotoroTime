@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "royfu@purdue.edu",
+    "longName": "TotoroTime",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble-totoro-bg.png",
+                "name": "IMAGE_TOTORO_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TotoroTime",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "634e0517-4a64-42b9-9247-4cadb7afe69b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
